@@ -12,6 +12,7 @@ This website exists to help boot camp students organise and find information to 
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Tests](#tests)
 
 ## Installation
 
