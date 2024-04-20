@@ -20,7 +20,7 @@ N/A
 
 ## Usage
 
-To use this study guide, inspect the webpage in your browser (R-Click > Inspect) and a list of covered topics will appear in the console, as well as a suggestion on what to study next. It should look like the following:
+To use this study guide, inspect the webpage in your browser (R-Click > Inspect or F12) and a list of covered topics will appear in the console, as well as a suggestion on what to study next. It should look like the following:
 
 
 ![alt text](assets/psg-screenshot.png)
